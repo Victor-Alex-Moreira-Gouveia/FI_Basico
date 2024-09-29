@@ -1,0 +1,15 @@
+@font-face {
+    font-family: DOS;
+    src: url(ModernDOS/ModernDOS8x8.ttf);
+}
+
+body{
+    background-color: #142922;
+    color:#13A10E;
+    font-family: DOS;
+}
+
+fieldset{
+    border:2px solid #13A10E;
+    border-style: dashed;
+}
